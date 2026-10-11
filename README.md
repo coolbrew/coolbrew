@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.35%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-🌆 Daytime                570 commits         ██████████░░░░░░░░░░░░░░░   38.18 % 
-🌃 Evening                517 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
-🌙 Night                  212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌞 Morning                195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+🌆 Daytime                572 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
+🌃 Evening                523 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
+🌙 Night                  214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 ```
 
 
@@ -17,49 +17,49 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 55 mins       ████████████████░░░░░░░░░   63.15 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-TOML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Python                   8 hrs 45 mins       ███████████░░░░░░░░░░░░░░   42.78 % 
+C                        8 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
+Swift                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (39.93%)
+⏱ AI Coding Time: 8 hrs 2 mins (39.22%)
 
-✍️ 3,226 lines written by AI, 12,216 lines written by hand (20.89% AI-written)
+✍️ 1,423 lines written by AI, 46,415 lines written by hand (2.97% AI-written)
 
-🔤 934,002 Input Tokens, 197,304 Output Tokens
+🔤 1,643,859 Input Tokens, 243,373 Output Tokens
 
-💵 $33.71 Estimated AI Cost This Week
+💵 $12.11 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 48 AI Prompts
+🧠 13 AI Sessions, 162 AI Prompts
 
-GPT                      3,633 lines         █████████████████████████   100.00 % 
+GPT                      1,439 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.89% of written lines came from AI
-📄 Detailed Prompter — average 787 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 85.62% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.97% of written lines came from AI
+📄 Detailed Prompter — average 712 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 98.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            ██████████░░░░░░░░░░░░░░░   39.66 % 
-Jupyter Notebook         10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   23 repos            ██████████░░░░░░░░░░░░░░░   38.98 % 
+Jupyter Notebook         10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 04/10/2026 14:37:08 UTC
+ Last Updated on 11/10/2026 15:18:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
